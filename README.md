@@ -2,4 +2,4 @@
 
 연동 테스트
 
-In Progress -> In Review
+To do -> In Progress -> In Review -> Done
